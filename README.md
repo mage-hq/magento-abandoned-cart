@@ -1,5 +1,5 @@
 # magento-abandoned-cart
-Magento 2 Abandoned Cart Email Extension automatically sends email reminders to customers about products that have been abandoned in their cart, helping them return to your online store to complete their purchase pay easily.
+Magento 2 Abandoned Cart Email extension helps you recover lost sales by sending customers automated emails about the products they forgot in their cart, inviting them to return to your online store and complete their order quickly
 
 Please go to https://magehq.com/abandoned-cart.html buy extension
 
